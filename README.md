@@ -1,6 +1,6 @@
 # **Twitter Clone 🐦**  
 
-A **full-stack social media web application** built with the **MERN stack (MongoDB, Express.js, React, Node.js)** that allows users to **post, like, comment, follow/unfollow users**, and update their profiles. The app is styled with **Daisy UI & Tailwind CSS**, optimized with **Vite**, and uses **TanStack React Query** for efficient API state management.
+A **full-stack social media web application** built with the **MERN stack (MongoDB, Express.js, React, Node.js)** that allows users to post, like, comment, follow/unfollow users, and update their profiles. The app is styled with **Daisy UI & Tailwind CSS**, optimized with **Vite**, and uses **TanStack React Query** for efficient API state management.
 
 ## 🌟 **Features**
 - ✅ **User Authentication** – Secure login & signup using JWT authentication.  
@@ -18,7 +18,7 @@ A **full-stack social media web application** built with the **MERN stack (Mongo
 ## 🛠 **Tech Stack**
 | Frontend  | Backend  | Database | Deployment |
 |-----------|---------|----------|------------|
-| React.js  | Node.js  | MongoDB  | Render (Backend) |
+| React.js  | Node.js  | MongoDB  | Render |
 | Vite  | Express.js  | Mongoose  | |
 | Tailwind CSS  | JWT Auth  | Cloudinary (for images)  | |
 | Daisy UI  | bcrypt.js  | | |
@@ -32,6 +32,8 @@ A **full-stack social media web application** built with the **MERN stack (Mongo
 | Home Page | Profile Page |
 |-----------|-------------|
 | ![Home Page](./pic/homepage.png) | ![Profile Page](./pic/profile-page.png) |
+| ![Notification Page](./pic/notification-page.png) | ![Login Page](./pic/login-page.png) |
+| ![Signup Page](./pic/signup-page.png) | |
 
 ---
 
@@ -42,3 +44,19 @@ git clone https://github.com/janiussyafiq/twitter-clone.git
 cd twitter-clone
 npm run build
 npm run start
+```
+
+## 💡 **Future Improvements**
+- 🚀 **Real-time Notifications** – Get notified instantly when someone likes, follows, or comments on your posts.  
+- 🔄 **Infinite Scrolling** – Improve UX by dynamically loading tweets as the user scrolls.  
+- 💬 **Direct Messaging** – Implement private messaging between users.  
+- #️⃣ **Hashtags & Mentions** – Allow users to tag others and create trending topics.  
+- 🎥 **Video & GIF Support** – Enhance engagement by supporting multimedia posts.  
+- 📌 **Pinned Tweets** – Let users pin their favorite posts to their profile.  
+- 🏷 **Tweet Categories** – Filter tweets by topics or interests.  
+
+---
+
+## 💬 **Connect With Me**
+- 💼 **LinkedIn**: [Mohammad Izzraff Janius](https://linkedin.com/in/izzraffjan)  
+- 📧 **Email**: [izzraff.js@gmail.com](mailto:izzraff.js@gmail.com)  
