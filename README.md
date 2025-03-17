@@ -28,16 +28,13 @@ A **full-stack social media web application** built with the **MERN stack (Mongo
 🔗 **Try the app here:** [Twitter Clone](https://twitter-clone-xp1v.onrender.com/)  
 
 ### 📸 **Screenshots**
-| Home Page | Profile Page |
-|-----------|-------------|
+| **Home Page** | **Profile Page** |
+|--------------|---------------|
 | ![Home Page](./pic/homepage.png) | ![Profile Page](./pic/profile-page.png) |
-| Notification Page | Login Page |
-|-----------|-------------|
+| **Notification Page** | **Login Page** |
 | ![Notification Page](./pic/notification-page.png) | ![Login Page](./pic/login-page.png) |
-| Signup Page |
-|-----------|
-| ![Signup Page](./pic/signup-page.png) | |
-
+| <strong style="text-align:center;" colspan="2">Signup Page</strong> |
+| <p align="center"> ![Signup Page](./pic/signup-page.png) </p> |
 ---
 
 ## 📦 **Installation & Setup**
