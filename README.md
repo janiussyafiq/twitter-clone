@@ -11,7 +11,6 @@ A **full-stack social media web application** built with the **MERN stack (Mongo
 - ✅ **Optimized UI with Tailwind & Daisy UI** – A clean, modern, and accessible design.  
 - ✅ **Real-time UI Updates** – Optimistic updates for following/unfollowing and likes using **TanStack Query**.  
 - ✅ **Toast Notifications** – Get instant feedback on actions (likes, follows, errors, etc.) with **React Hot Toast**.  
-- ✅ **Upcoming: Real-time Notifications & Hashtags** 🚀  
 
 ---
 
@@ -32,7 +31,11 @@ A **full-stack social media web application** built with the **MERN stack (Mongo
 | Home Page | Profile Page |
 |-----------|-------------|
 | ![Home Page](./pic/homepage.png) | ![Profile Page](./pic/profile-page.png) |
+| Notification Page | Login Page |
+|-----------|-------------|
 | ![Notification Page](./pic/notification-page.png) | ![Login Page](./pic/login-page.png) |
+| Signup Page |
+|-----------|
 | ![Signup Page](./pic/signup-page.png) | |
 
 ---
