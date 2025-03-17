@@ -18,7 +18,7 @@ import useUpdateUserProfile from "../../hooks/useUpdateUserProfile"
 import useFollow from "../../hooks/useFollow";
 
 const ProfilePage = () => {
-	// const { data:authUser } = useQuery({queryKey: ["authUser"]});
+
 	const [coverImg, setCoverImg] = useState(null);
 	const [profileImg, setProfileImg] = useState(null);
 	const [feedType, setFeedType] = useState("posts");
